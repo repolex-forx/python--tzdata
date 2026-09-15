@@ -1,0 +1,7 @@
+[2026-09-15T17:00:29Z] === AST ITERATION 1 START | repo=python/tzdata sha=4997cab8 ===
+[2026-09-15T17:00:29Z] [iter=1] PHASE START: ast repo=python/tzdata sha=4997cab8
+[2026-09-15T17:00:29Z] [iter=1] Building AST aggregate chunks
+[2026-09-15T17:00:32Z] [iter=1] AST chunks built count=1 triples=30733
+[2026-09-15T17:00:32Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4997cab882668ef36ced53c797a7eecc229d6f66/.complete
+[2026-09-15T17:00:32Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-09-15T17:00:32Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
