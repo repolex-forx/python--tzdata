@@ -38,12 +38,17 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
-│   │   └── 4997cab882668ef36ced53c797a7eecc229d6f66
+│   │   ├── 4997cab882668ef36ced53c797a7eecc229d6f66
+│   │   │   └── chunk-001.nq.gz
+│   │   └── 53f247e8b897d76321f883e67639ae85c62fbf3b
 │   │       └── chunk-001.nq.gz
 │   ├── lsp
-│   │   └── 4997cab882668ef36ced53c797a7eecc229d6f66.nq.gz
+│   │   ├── 4997cab882668ef36ced53c797a7eecc229d6f66.nq.gz
+│   │   └── 53f247e8b897d76321f883e67639ae85c62fbf3b.nq.gz
 │   └── repolex
-│       └── 4997cab882668ef36ced53c797a7eecc229d6f66
+│       ├── 4997cab882668ef36ced53c797a7eecc229d6f66
+│       │   └── chunk-001.nq.gz
+│       └── 53f247e8b897d76321f883e67639ae85c62fbf3b
 │           └── chunk-001.nq.gz
 └── blob
     ├── 001289ceecff85fe0d0f376a6bc394329445f13f.nq.gz
@@ -91,6 +96,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── 1975a3a4bd0ed93db1d10a2c562eb5bc3baaa489.nq.gz
     ├── 1a4c8ea86361731f4d7e854ac66d96a5ce6b2dbf.nq.gz
     ├── 1aa066ce38fce7bd0a680f51d6f075718d153a77.nq.gz
+    ├── 1c21afaeea9b8f690cdaa1db869a98da42f971db.nq.gz
     ├── 1dcc8d85434c9d016f170cb2f16811ebef327b77.nq.gz
     ├── 1dd08b1cafd4b36ce963bdc42a075665fa723b54.nq.gz
     ├── 1e6d48d1ca4e5416913c41e8814dc045c57d5b58.nq.gz
@@ -238,13 +244,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── 753a6c86f38586797589233f4528837f5b09151c.nq.gz
     ├── 75f16216f0d39ff98d969cd1f6703473f6fea50f.nq.gz
     ├── 761d1d9af53662efdb521bef949ded15e3f1f4dc.nq.gz
-    ├── 76e1f6285b552c11ceae9bc6cdbd6a308419b0e8.nq.gz
-    ├── 773feba89d36ffab4baf105b8f0ae69584a74014.nq.gz
-    ├── 774392cd88d09c2efed1caf12d4447b14bfa804a.nq.gz
-    ├── 7969e3076687a35835653a348f0f3c8c0b2e1821.nq.gz
-    └── 79a983e5454a35f134cd4ad736ed912f3deae64f.nq.gz
+    └── 76e1f6285b552c11ceae9bc6cdbd6a308419b0e8.nq.gz
 
-8 directories, 200 files
+10 directories, 200 files
 ```
 
 | Directory | What it contains |
@@ -264,4 +266,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [python/tzdata](https://github.com/python/tzdata)
 
 ---
-*Parsed on 2026-09-15 by [repolex](https://repolex.ai)*
+*Parsed on 2026-09-18 by [repolex](https://repolex.ai)*
