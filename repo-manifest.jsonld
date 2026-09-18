@@ -255,8 +255,9 @@
     {
       "@id": "https://repolex.ai/r/python/tzdata/commit/53f247e8b897d76321f883e67639ae85c62fbf3b",
       "git:hexsha": "53f247e8b897d76321f883e67639ae85c62fbf3b",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "2026.1rc0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2026.1rc0",
+      "repolex:parsedAt": "2026-09-18T07:05:14.000695+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python/tzdata/commit/1ed894339a0c37a85f8ba2a7c4d7696934d332dd",
