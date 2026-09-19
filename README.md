@@ -50,6 +50,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   │   └── chunk-001.nq.gz
 │   │   ├── 9477a0f54afa67e8d9d84d38dce14f6105ad674b
 │   │   │   └── chunk-001.nq.gz
+│   │   ├── 9c40927da8ccedcff274840f47a651695e0528ed
+│   │   │   └── chunk-001.nq.gz
 │   │   ├── b6ab832c0171af80d8829ab2af3f786b57848335
 │   │   │   └── chunk-001.nq.gz
 │   │   ├── b7c033f0e0073b2b89f5ac5856d2991f319f565f
@@ -67,6 +69,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   ├── 53f247e8b897d76321f883e67639ae85c62fbf3b.nq.gz
 │   │   ├── 8d488ea4d6b2f17018c2b55d64bd8c2334dd8bd0.nq.gz
 │   │   ├── 9477a0f54afa67e8d9d84d38dce14f6105ad674b.nq.gz
+│   │   ├── 9c40927da8ccedcff274840f47a651695e0528ed.nq.gz
 │   │   ├── b6ab832c0171af80d8829ab2af3f786b57848335.nq.gz
 │   │   ├── b7c033f0e0073b2b89f5ac5856d2991f319f565f.nq.gz
 │   │   ├── ba0b73f2572a03456140671415ee5deedc58e2e9.nq.gz
@@ -84,6 +87,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │       ├── 8d488ea4d6b2f17018c2b55d64bd8c2334dd8bd0
 │       │   └── chunk-001.nq.gz
 │       ├── 9477a0f54afa67e8d9d84d38dce14f6105ad674b
+│       │   └── chunk-001.nq.gz
+│       ├── 9c40927da8ccedcff274840f47a651695e0528ed
 │       │   └── chunk-001.nq.gz
 │       ├── b6ab832c0171af80d8829ab2af3f786b57848335
 │       │   └── chunk-001.nq.gz
@@ -259,12 +264,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── 59921d8c24fe375e75e81e76428da8e0f3bf563e.nq.gz
     ├── 59bc6e40b7bb0b4eb199dd8c17f416ee00ca4158.nq.gz
     ├── 59c952ebc65169dce30078a3e1ee371e0da52ae4.nq.gz
-    ├── 59d3dbc70d6cf3f8b5f7248ea107aff77d7efca9.nq.gz
-    ├── 5aa6039ea4cb36077f048782b54c6275c25e86b3.nq.gz
-    ├── 5ab3243a5f01f5056127f160cfe693c33edf0531.nq.gz
-    └── 5d8fc3a1b253d1df3a0184013469c6e46f6f6f75.nq.gz
+    └── 59d3dbc70d6cf3f8b5f7248ea107aff77d7efca9.nq.gz
 
-28 directories, 200 files
+30 directories, 200 files
 ```
 
 | Directory | What it contains |
